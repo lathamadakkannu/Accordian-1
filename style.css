@@ -1,0 +1,38 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.active{
+    display:none;
+}
+.container{
+    padding-top: 15%;
+    width:80%;
+    margin:auto;
+}
+
+.row{
+    padding:20px;
+    border: 2px solid black;
+}
+
+.content{
+    padding:15px;
+}
+.content p{
+    text-indent: 40px;
+}
+.accord{
+    padding:10px;
+}
+.accord-ques{
+    display: inline;
+    transition: all 01s linear;
+}
+i{
+    float:right;
+}
+p{
+    font-size: 20px;
+}
